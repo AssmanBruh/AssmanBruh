@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy **Assmanbruh** 
 
-### **Desarrollador de HaxeFlixel** 🎮 + **Full-Stack ocasional** 💻  
-*Amo los juegos retro, el código spaghetti (pero funcional) y el café.* ☕  
+### **Desarrollador de Juegos** 🎮 + **Full-Stack ocasional** 💻  
+*sleep??.* ☕  
 
 ---
 
@@ -15,13 +15,13 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 **Otras herramientas:**  
-Git | GitHub | VS Code | Photoshop (para los sprites 🎨)  
+Git | GitHub | VS Code | Adobe Animate (para los sprites 🎨)  
 
 ---
 
 ## 🎮 **Proyectos con HaxeFlixel**  
-- **[Juego Retro Pixelado](https://github.com/Assmanbruh/mi-juego-haxeflixel)** - Plataformero 2D con físicas absurdas.  
-- **[Engine Custom](https://github.com/Assmanbruh/haxe-custom-engine)** - Mi intento de hacer algo reutilizable (spoiler: no lo es).  
+- **[Juego De Ritmo basado en Osu!]([https://github.com/Assmanbruh/mi-juego-haxeflixel](https://github.com/AssmanBruh/Sonora))** - DDR // Stepmania Style
+- **[Engine Custom](https://github.com/Assmanbruh/flixelUI)** - Mi intento de hacer algo reutilizable (spoiler: no lo termine nunca).  
 
 ## 🌐 **Proyectos Web/otros**  
 - **[Web con JavaScript](https://github.com/Assmanbruh/web-random)** - Una página que hace algo "útil".  
@@ -41,11 +41,11 @@ Git | GitHub | VS Code | Photoshop (para los sprites 🎨)
 
 ## 📫 **¿Dónde encontrarme?**  
 
-[![Twitter](https://img.shields.io/badge/-@Assmanbruh-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Assmanbruh)  
-[![Discord](https://img.shields.io/badge/-Assmanbruh%230001-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)  
+[![Twitter](https://img.shields.io/badge/-@Assmanbruh-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/Assmanbruh](https://x.com/Rodrigo8728939))  
+[![Discord](https://img.shields.io/badge/-!AssmanBruh%232346-5865F2?style=flat&logo=discord&logoColor=white)](assmanbruh)  
 [![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white)](https://assmanbruh.itch.io/)  
 
 ---
 
 ## ⚡ **Fun Fact**  
-*"Assmanbruh" viene de un bug épico en mi primer juego donde el personaje se quedaba pegado en los assets. Ahora es mi marca personal.* 🏷️  
+*"Assmanbruh" Surgio de la nada... despues de muchisimos nombres, ese quedo y al parecer a todos les gusta xDD* 🏷️  
