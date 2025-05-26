@@ -20,8 +20,8 @@ Git | GitHub | VS Code | Adobe Animate (para los sprites 🎨)
 ---
 
 ## 🌐 **Mods de FNF**  
-- **[Funk 4 Dead]([https://github.com/Assmanbruh/web-random](https://github.com/AssmanBruh/Funk4DeadSourceCode))** - My Left 4 Dead FNF mod (Join us! https://discord.gg/sSVccC2CNA).  
-- **[Friday No Action!]([https://github.com/Assmanbruh/automate-stuff](https://github.com/AssmanBruh/FridayNoAction))** - The mod I'm working in this moment.  
+- **[Funk 4 Dead]([https://github.com/Assmanbruh/web-random](https://github.com/AssmanBruh/Funk4DeadSourceCode]))** - My Left 4 Dead FNF mod (Join us! https://discord.gg/sSVccC2CNA).  
+- **[Friday No Action!]([https://github.com/Assmanbruh/automate-stuff](https://github.com/AssmanBruh/FridayNoAction]))** - The mod I'm working in this moment.  
 
 ---
 
