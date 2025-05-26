@@ -19,13 +19,9 @@ Git | GitHub | VS Code | Adobe Animate (para los sprites 🎨)
 
 ---
 
-## 🎮 **Proyectos con HaxeFlixel**  
-- **[Juego De Ritmo basado en Osu!]([https://github.com/Assmanbruh/mi-juego-haxeflixel](https://github.com/AssmanBruh/Sonora))** - DDR // Stepmania Style
-- **[Engine Custom](https://github.com/Assmanbruh/flixelUI)** - Mi intento de hacer algo reutilizable (spoiler: no lo termine nunca).  
-
-## 🌐 **Proyectos Web/otros**  
-- **[Web con JavaScript](https://github.com/Assmanbruh/web-random)** - Una página que hace algo "útil".  
-- **[Script en Python](https://github.com/Assmanbruh/automate-stuff)** - Automatizando cosas aburridas.  
+## 🌐 **Mods de FNF**  
+- **[Funk 4 Dead]([https://github.com/Assmanbruh/web-random](https://github.com/AssmanBruh/Funk4DeadSourceCode))** - My Left 4 Dead FNF mod (Join us! https://discord.gg/sSVccC2CNA).  
+- **[Friday No Action!]([https://github.com/Assmanbruh/automate-stuff](https://github.com/AssmanBruh/FridayNoAction))** - The mod I'm working in this moment.  
 
 ---
 
