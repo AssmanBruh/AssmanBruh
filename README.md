@@ -4,4 +4,4 @@ Experienced Coder and Game Developer
 Experienced Animator
 Experienced Artist
 
-![Gojo Hi](https://tenor.com/view/satoru-gojo-acenando-satoru-gojo-hello-gojo-satoru-acenando-gojo-satoru-hello-satoru-gojo-gif-6906106514289152197)
+![Gojo Hi](https://discord.com/channels/1376416322220724315/1463789925337137182/1554394859408982038)
