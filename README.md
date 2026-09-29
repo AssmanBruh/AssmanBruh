@@ -4,4 +4,4 @@ Experienced Coder and Game Developer
 Experienced Animator
 Experienced Artist
 
-![Gojo Hi](https://discord.com/channels/1376416322220724315/1463789925337137182/1554394859408982038)
+![Gojo Hi](https://images-ext-1.discordapp.net/external/eZEI-sASTpxZhXAxYePHpqY-WYLH9cMFOH-17U2DtEI/https/media.tenor.com/X9drSN03UMUAAAPo/satoru-gojo-acenando-satoru-gojo-hello.mp4)
